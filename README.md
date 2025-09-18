@@ -52,5 +52,5 @@ It allows users to add, edit, delete, and filter tasks, supports due dates, and 
 🧑‍💻 Author
 
 **Abizer Saifee**
-[GitHub](https://github.com/ABIZER-web) | [LinkedIn]([www.linkedin.com/in/mr-abizer-saify-a3b936278](https://www.linkedin.com/in/mr-abizer-saify-a3b936278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[GitHub](https://github.com/ABIZER-web) | [LinkedIn](www.linkedin.com/in/mr-abizer-saify-a3b936278)
 
