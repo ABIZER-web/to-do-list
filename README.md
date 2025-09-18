@@ -48,10 +48,13 @@ It allows users to add, edit, delete, and filter tasks, supports due dates, and 
 
 🖼️ Preview
 
-Include a screenshot or GIF here (e.g., ![Preview](screenshot.png)).
+Include a screenshot or GIF here (e.g., ![Preview](
+<img width="677" height="397" alt="image" src="https://github.com/user-attachments/assets/a58fca1a-1e4c-429e-8d48-0410ab259b81" />
+<img width="701" height="410" alt="image" src="https://github.com/user-attachments/assets/31d4208a-706f-4563-bd21-1b355820f756" />
+)).
 
 🧑‍💻 Author
 
 **Abizer Saifee**
-[GitHub](https://github.com/ABIZER-WEB) | [LinkedIn](www.linkedin.com/in/mr-abizer-saify-a3b936278)
+[GitHub](https://github.com/ABIZER-web) | [LinkedIn](www.linkedin.com/in/mr-abizer-saify-a3b936278)
 
